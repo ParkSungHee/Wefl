@@ -20,8 +20,9 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/kimyunseok"><img src="https://user-images.githubusercontent.com/22094204/170568044-50224988-62c0-4db3-9af0-c2a6561780e2.png" width="100px;" alt=""/><br /><sub><b>김현석</b></sub></a><br /><a href="https://github.com/Grace-Girls/GCG/commits?author=kimyunseok" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/ParkSungHee"><img src="https://avatars2.githubusercontent.com/u/22094204?v=4" width="100px;" alt=""/><br /><sub><b>박성희</b></sub></a><br /><a href="https://github.com/Grace-Girls/GCG/commits?author=ParkSungHee" title="Code">💻</a>
+    <td align="center"><a href="https://github.com/kimyunseok"><img src="https://user-images.githubusercontent.com/22094204/170568044-50224988-62c0-4db3-9af0-c2a6561780e2.png" width="100px;" alt=""/><br /><sub><b>김현석</b></sub></a><br /><a href="https://github.com/Grace-Girls/GCG/commits?author=kimyunseok" title="Code"></a>
+인스타그램 / 결제 / 관심가치설정 / 마이페이지</td>
+    <td align="center"><a href="https://github.com/ParkSungHee"><img src="https://avatars2.githubusercontent.com/u/22094204?v=4" width="100px;" alt=""/><br /><sub><b>박성희</b></sub></a><br /><a href="https://github.com/Grace-Girls/GCG/commits?author=ParkSungHee" title="Code"></a>상품화면 / 스토어 / 홈화면 / 장바구니
     </td>
   </tr>
 </table>
